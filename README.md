@@ -60,10 +60,10 @@
   <br/>
   <br/>
 
-  ## 🗂️ <a href="https://www.notion.so/1a0f8c4966e480fc964adb53fe327fdf?v=1a0f8c4966e480f28bdd000cab90d9b7">Projects</a>
+  ## 🗂️ Projects
   |프로젝트|활동 기간|설명|
   |------|---|---|
-  |<a href="https://www.notion.so/RefHub-1a0f8c4966e48010b187c95285c62097">레퍼브 Refhub</a>|2024.12 ~ now|소중한 영감이 흐려지지 않도록, 완벽한 아카이빙 / Backend Dev|
+  |<a href="https://comet-megaraptor-0c6.notion.site/RefHub-1a0f8c4966e48010b187c95285c62097">레퍼브 Refhub</a>|2024.12 ~ now|소중한 영감이 흐려지지 않도록, 완벽한 아카이빙 / Backend Dev|
   <br/>
   <br/>
 
