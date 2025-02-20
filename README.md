@@ -56,14 +56,14 @@
   |------|---|---|
   |숙명여자대학교|2021.03 ~ now|소프트웨어학부|
   |SISS|2021.03 ~ 2023.12|숙명여대 정보보안학회 / 2023 운영진|
-  |Codeit Boost|2024.03 ~ 2024.02|부트캠프 연합 동아리 / 1기 Back PB Runner|
+  |Codeit Boost|2024.03 ~ 2025.02|부트캠프 연합 동아리 / 1기 Back PB Runner|
   <br/>
   <br/>
 
   ## 🗂️ Projects
   |프로젝트명|활동 기간|설명|
   |------|---|---|
-  |<a href="https://comet-megaraptor-0c6.notion.site/RefHub-1a0f8c4966e48010b187c95285c62097">레퍼브 Refhub</a>|2024.12 ~ now|완벽한 아카이빙 서비스 / Backend Dev|
+  |<a href="https://comet-megaraptor-0c6.notion.site/RefHub-1a0f8c4966e48010b187c95285c62097">레퍼브 Refhub</a>|2025.01 ~ now|완벽한 아카이빙 서비스 / Backend Dev|
 
   프로젝트명을 클릭하면 더 자세한 내용을 보실 수 있습니다.
   <br/>
