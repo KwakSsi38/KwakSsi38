@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minhee's%20GitHub)
   
 </div>
 
@@ -9,6 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
+  ####
   <br/>
   <br/>
   
@@ -49,34 +50,39 @@
   <br/>
   <br/>
 
-
   ## ✨ Experience
   |소속|활동 기간|설명|
   |------|---|---|
   |숙명여자대학교|2021.03 ~ now|소프트웨어학부|
-  |SISS|2021.03 ~ 2023.12|숙명여대 정보보안학회 / 2023 운영진(웹 학술부장)|
-  |Codeit Boost|2024.03~2024.02|부트캠프 연합 동아리 / 1기 Back PB Runner|
+  |SISS|2021.03 ~ 2023.12|숙명여대 정보보안학회 / 2023 운영진|
+  |Codeit Boost|2024.03 ~ 2024.02|부트캠프 연합 동아리 / 1기 Back PB Runner|
   <br/>
   <br/>
 
   ## 🗂️ Projects
   |프로젝트|활동 기간|설명|
   |------|---|---|
-  |2024.12 ~ now|레퍼브 Refhub|소중한 영감이 흐려지지 않도록, 완벽한 아카이빙 / Backend Dev|
+  |<a href="https://github.com/KwakSsi38/RefHub_BE/blob/develop/README.md">레퍼브 Refhub</a>|2024.12 ~ now|소중한 영감이 흐려지지 않도록, 완벽한 아카이빙 / Backend Dev|
   <br/>
   <br/>
 
   ## 🏆 Awards / certificate
-  - 학업 우수 장학금도 적을까...
-  - Codeit Boost 1기 DemoDay: 레퍼브 RefHub 대상
-    
-  - 22회 정기평가 TOPCIT Level 3 (2024.10.12)
+  - **Codeit Boost 1기 DemoDay 대상 (2025. 02)**
+  - 숙명여자대학교 학업우수장학금 (2023.07)
+  - 숙명여자대학교 학업우수장학금 (2023.01)
+  - 숙명여자대학교 학업우수장학금 (2022.01)
+  - 숙명여자대학교 학업우수장학금 (2021.07)
+  - 22회 정기평가 TOPCIT Level 3 (2024.10)
   <br/>
   <br/>
-
   
   ## 📊 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwakSsi38)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  <br/>
+
+  ## 💬 Contact Me
+  ✉ Email: <a href="href="mailto:yyj9694651@gmail.com">yyj9694651@gmail.com</a>
   <br/>
   
 </div>
