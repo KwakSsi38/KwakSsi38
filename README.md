@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minhee's%20GitHub)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Welcome&fontAlignY=40&desc=Minhee's%20Github&descAlignY=60&animation=fadeIn)
   
 </div>
 
@@ -9,7 +9,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  ####
+  백엔드 개발자 한민희입니다.🍀 <br/>
+  지속적인 기술 성장과 문제 해결 능력 향상을 목표로 하고 있습니다.
   <br/>
   <br/>
   
@@ -82,7 +83,7 @@
   <br/>
 
   ## 💬 Contact Me
-  ✉ Email: <a href="href="mailto:yyj9694651@gmail.com">yyj9694651@gmail.com</a>
+  ✉ Email: <a href="mailto:yyj9694651@gmail.com">yyj9694651@gmail.com</a>
   <br/>
   
 </div>
